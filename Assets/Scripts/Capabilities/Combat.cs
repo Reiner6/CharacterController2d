@@ -1,4 +1,4 @@
-//WIP
+//TODO: Implement combat system
 using UnityEngine;
 
 [RequireComponent(typeof(Controller))]
